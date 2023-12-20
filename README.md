@@ -2,7 +2,7 @@
 ## PROYECTOS DE INFRAESTRUCTURA BIM
 ### Obras de Drenaje Transversal con metodología BIM
 Modelamiento de Muros de Contención, Alcantarillas, Badenes, pozas disipadoras. (Proyecto OMATE/OYÓN/SELVA ALEGRE)
-![Modelo BIM de un Badén con muro de contención](/images/infraes.png) 
+[Modelo BIM de un Badén con muro de contención](/images/infraes.png) 
 ![Modelo BIM de drenaje transversal](/images/tmc3.png) 
 ### Alcantarilla Multiplate
 Modelamiento de estructura Multiplate mediante el programa Revit, gestión de la superficie de terreno con Civil 3D, Coordinación mediante el programa Navisworks. Empleando como Entorno Común de Datos la plataforma Trimble Connect para compartir la información con los mimebros del proyecto.
