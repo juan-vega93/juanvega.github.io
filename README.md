@@ -1,5 +1,5 @@
-<h1 align="center">Juan Jesús Vega More</h1>
-<h2 align="center">Proyectos de Infraestructuras BIM</h3>
+#Portafolio
+##Proyectos de Infraestructuras BIM
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/juanvegamore)
 ## PROYECTOS DE INFRAESTRUCTURA BIM
 ### Obras de Drenaje Transversal con metodología BIM
