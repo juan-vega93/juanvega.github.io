@@ -10,7 +10,7 @@ Modelamiento de Muros de Contención, Alcantarillas, Badenes, pozas disipadoras.
 Modelamiento de estructura Multiplate mediante el programa Revit, gestión de la superficie de terreno con Civil 3D, Coordinación mediante el programa Navisworks. Empleando como Entorno Común de Datos la plataforma Trimble Connect para compartir la información con los mimebros del proyecto.
 ![Modelo BIM en Trimble Connect](/images/TMC.jpg)
 <iframe src="https://speckle.xyz/embed?stream=b0a9a15baf&commit=e10c0fd9c3" width="600" height="400" frameborder="0"></iframe>
-### Puentes - BIM
+### Puentes - BIM 
 Modelamiento BIM y Diseño Estructural para puentes. (Proyecto Tambogrande)
 Modelo BIM Puente Pallar, Santa Rosa, La Saucha, Pedregal, Higuerón, entre otros.
 *PUENTE PALLAR
