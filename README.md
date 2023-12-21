@@ -11,6 +11,9 @@ Modelamiento de estructura Multiplate mediante el programa Revit, gestión de la
 ### Puentes - BIM
 Modelamiento BIM y Diseño Estructural para puentes. (Proyecto Tambogrande)
 Modelo BIM Puente Pallar, Santa Rosa, La Saucha, Pedregal, Higuerón, entre otros.
+![Puente Pallar]
+<iframe src="https://speckle.xyz/embed?stream=b0a9a15baf&commit=4a8f63c47d" width="600" height="400" frameborder="0"></iframe>
+
 ### Defensas Ribereñas - BIM
 ### Drenaje Pluvial - BIM
 ## CURSOS DICTADOS
