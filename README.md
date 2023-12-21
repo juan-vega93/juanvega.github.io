@@ -1,4 +1,5 @@
 # PORTAFOLIO 
+BIM Manager en proyectos de infraestructura de gran envergadura, tales como Puentes, Muros de contención, Obras de Drenaje Transversal, Drenaje Pluvial. Además, me desempeño como docente en cursos de modelamiento BIM con Revit y Tekla aplicado a Infraestructuras, y cursos relacionados a la automatización de procesos como Dynamo para Civil 3D, Modelamiento con Tekla y Grasshopper, entre otros.
 ## PROYECTOS DE INFRAESTRUCTURA BIM
 ### Obras de Drenaje Transversal con metodología BIM
 Modelamiento de Muros de Contención, Alcantarillas, Badenes, pozas disipadoras. (Proyecto OMATE/OYÓN/SELVA ALEGRE)
