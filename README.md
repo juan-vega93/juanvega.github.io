@@ -18,13 +18,34 @@ Modelo BIM Puente Pallar, Santa Rosa, La Saucha, Pedregal, Higuerón, entre otro
 #### PUENTE SANTA ROSA
 <iframe src="https://speckle.xyz/embed?stream=b0a9a15baf&commit=6fa1f91f45" width="600" height="400" frameborder="0"></iframe>
 ### Defensas Ribereñas - BIM
-Modelamiento BIM de Diques, Alcantarillas, entre otras estructuras para prevenir daños ocasionados por el fenómeno de El Niño en Perú, en las quebradas de Ríos Cañete-Huara / Casma - Huarmey (2022).
+Gestión BIM de Diques, Alcantarillas, entre otras estructuras para prevenir daños ocasionados por el fenómeno de El Niño en Perú, en las quebradas de Ríos Cañete-Huara / Casma - Huarmey (2022).
 #### Cañete-Huara
 ![Modelo BIM cañete](/images/cañete ohla.png)
 ![Modelo BIM cañete2](/images/cañete2.png)
+<iframe src="https://speckle.xyz/embed?stream=b0a9a15baf&commit=6f157f59ee" width="600" height="400" frameborder="0"></iframe>
 #### Casma-Huarmey
 ![Modelo BIM casma](/images/casma.png)
 ![Modelo BIM casma2](/images/casma 2.png)
 ### Drenaje Pluvial - BIM
+Gestión BIM de los activos correspondientes al drenaje pluvial urbano de la ciudad de chiclayo (tanques de retención, redes de tuberías, alcantarillas, entre otros), implementando la vinculación BIM-GIS para la toma de decisiones (2023).
+![Modelo BIM chiclayo](/images/chiclayo.png)
+![Modelo BIM chiclayo 2](/images/chiclayo 2.png)
+![Modelo BIM chiclayo 3](/images/drenaje.png)
+![Modelo BIM trap](/images/trap.png)
+Para la Vinculación BIM-GIS se emplearon herramientas como Arcgis Online y Arcgis GeoBIM.
+![Modelo BIM chiclayo 4](/images/arcgis online.png)
+![Modelo BIM chiclayo 5](/images/bim gis.png)
 ## CURSOS DICTADOS
 ### Revit Aplicado a Infraestructura vial
+En el curso se vieron los flujos de trabajos para proyectos de infraestructura, así como el uso del paquete CivilConnection.
+![Modelo BIM puente](/images/puente.png)
+![Modelo BIM puente 2](/images/revit civil.png)
+### Dynamo aplicado a Civil 3D
+Automatización de procesos en Civil 3D, tal como la asignación de propertysets, modelamiento de geometrías complejas.
+![Modelo BIM civil 3d](/images/civil 3d.png)
+### Tekla con Grasshopper
+Empleo de la programación con grasshopper para modelado de estructuras complejas en el programa Tekla.
+![Modelo BIM tekla](/images/tekla.png)
+![Modelo BIM tekla2](/images/tekla grasshopper.png)
+
+
