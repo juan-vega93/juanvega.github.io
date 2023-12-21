@@ -1,5 +1,5 @@
-#<h1 align="center">Portafolio</h1>
-[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/juanvegamore)
+#Portafolio
+##[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/juanvegamore)
 ## PROYECTOS DE INFRAESTRUCTURA BIM
 ### Obras de Drenaje Transversal con metodología BIM
 Modelamiento de Muros de Contención, Alcantarillas, Badenes, pozas disipadoras. (Proyecto OMATE/OYÓN/SELVA ALEGRE)
