@@ -13,10 +13,18 @@ Modelamiento de estructura Multiplate mediante el programa Revit, gestión de la
 ### Puentes - BIM
 Modelamiento BIM y Diseño Estructural para puentes. (Proyecto Tambogrande)
 Modelo BIM Puente Pallar, Santa Rosa, La Saucha, Pedregal, Higuerón, entre otros.
-![Puente Pallar]
+*PUENTE PALLAR
 <iframe src="https://speckle.xyz/embed?stream=b0a9a15baf&commit=4a8f63c47d" width="600" height="400" frameborder="0"></iframe>
-
+*PUENTE SANTA ROSA
+<iframe src="https://speckle.xyz/embed?stream=b0a9a15baf&commit=6fa1f91f45" width="600" height="400" frameborder="0"></iframe>
 ### Defensas Ribereñas - BIM
+Modelamiento BIM de Diques, Alcantarillas, entre otras estructuras para prevenir daños ocasionados por el fenómeno de El Niño en Perú, en las quebradas de Ríos Cañete-Huara / Casma - Huarmey (2022).
+*Cañete-Huara
+![Modelo BIM cañete](/images/cañete ohla.png)
+![Modelo BIM cañete2](/images/cañete2.png)
+*Casma-Huarmey
+![Modelo BIM casma](/images/casma.png)
+![Modelo BIM casma2](/images/casma 2.png)
 ### Drenaje Pluvial - BIM
 ## CURSOS DICTADOS
 ### Revit Aplicado a Infraestructura vial
